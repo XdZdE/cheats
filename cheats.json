@@ -28,5 +28,11 @@
 		"description": "Owned by cedo the nsfw sellsman",
 		"link": "https://cdn.lewd.host/H0bLAnsu.rar",
 		"image_link": "https://cdn.lewd.host/V3ToASD0.jpg"
+	},
+	{
+	  "name": "Test Client",
+          "description": "this won't launch anything, it's a test software thing",
+	"link": "https://cdn.lewd.host/gKhlVryJ.rar",
+        "image_link": "https://lewd.host/images/logo_smol.png"
 	}
 	]
